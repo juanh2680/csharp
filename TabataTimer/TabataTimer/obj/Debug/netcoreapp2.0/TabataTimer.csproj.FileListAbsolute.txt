@@ -1,0 +1,11 @@
+/Users/juandavid/Projects/TabataTimer/TabataTimer/bin/Debug/netcoreapp2.0/TabataTimer.deps.json
+/Users/juandavid/Projects/TabataTimer/TabataTimer/bin/Debug/netcoreapp2.0/TabataTimer.runtimeconfig.json
+/Users/juandavid/Projects/TabataTimer/TabataTimer/bin/Debug/netcoreapp2.0/TabataTimer.runtimeconfig.dev.json
+/Users/juandavid/Projects/TabataTimer/TabataTimer/bin/Debug/netcoreapp2.0/TabataTimer.dll
+/Users/juandavid/Projects/TabataTimer/TabataTimer/bin/Debug/netcoreapp2.0/TabataTimer.pdb
+/Users/juandavid/Projects/TabataTimer/TabataTimer/obj/Debug/netcoreapp2.0/TabataTimer.csprojResolveAssemblyReference.cache
+/Users/juandavid/Projects/TabataTimer/TabataTimer/obj/Debug/netcoreapp2.0/TabataTimer.csproj.CoreCompileInputs.cache
+/Users/juandavid/Projects/TabataTimer/TabataTimer/obj/Debug/netcoreapp2.0/TabataTimer.AssemblyInfoInputs.cache
+/Users/juandavid/Projects/TabataTimer/TabataTimer/obj/Debug/netcoreapp2.0/TabataTimer.AssemblyInfo.cs
+/Users/juandavid/Projects/TabataTimer/TabataTimer/obj/Debug/netcoreapp2.0/TabataTimer.dll
+/Users/juandavid/Projects/TabataTimer/TabataTimer/obj/Debug/netcoreapp2.0/TabataTimer.pdb

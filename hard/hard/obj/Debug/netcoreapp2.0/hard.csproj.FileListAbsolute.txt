@@ -1,0 +1,11 @@
+/Users/juandavid/Projects/hard/hard/bin/Debug/netcoreapp2.0/hard.deps.json
+/Users/juandavid/Projects/hard/hard/bin/Debug/netcoreapp2.0/hard.runtimeconfig.json
+/Users/juandavid/Projects/hard/hard/bin/Debug/netcoreapp2.0/hard.runtimeconfig.dev.json
+/Users/juandavid/Projects/hard/hard/bin/Debug/netcoreapp2.0/hard.dll
+/Users/juandavid/Projects/hard/hard/bin/Debug/netcoreapp2.0/hard.pdb
+/Users/juandavid/Projects/hard/hard/obj/Debug/netcoreapp2.0/hard.csprojResolveAssemblyReference.cache
+/Users/juandavid/Projects/hard/hard/obj/Debug/netcoreapp2.0/hard.csproj.CoreCompileInputs.cache
+/Users/juandavid/Projects/hard/hard/obj/Debug/netcoreapp2.0/hard.AssemblyInfoInputs.cache
+/Users/juandavid/Projects/hard/hard/obj/Debug/netcoreapp2.0/hard.AssemblyInfo.cs
+/Users/juandavid/Projects/hard/hard/obj/Debug/netcoreapp2.0/hard.dll
+/Users/juandavid/Projects/hard/hard/obj/Debug/netcoreapp2.0/hard.pdb

@@ -1,0 +1,12 @@
+/Users/juandavid/Projects/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.csprojResolveAssemblyReference.cache
+/Users/juandavid/Projects/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.csproj.CoreCompileInputs.cache
+/Users/juandavid/Projects/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfoInputs.cache
+/Users/juandavid/Projects/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfo.cs
+/Users/juandavid/Projects/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/juandavid/Projects/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.deps.json
+/Users/juandavid/Projects/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.json
+/Users/juandavid/Projects/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.dev.json
+/Users/juandavid/Projects/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.dll
+/Users/juandavid/Projects/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.pdb
+/Users/juandavid/Projects/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.dll
+/Users/juandavid/Projects/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.pdb

@@ -1,0 +1,11 @@
+/Users/juandavid/Projects/veryhard/veryhard/bin/Debug/netcoreapp2.0/veryhard.deps.json
+/Users/juandavid/Projects/veryhard/veryhard/bin/Debug/netcoreapp2.0/veryhard.runtimeconfig.json
+/Users/juandavid/Projects/veryhard/veryhard/bin/Debug/netcoreapp2.0/veryhard.runtimeconfig.dev.json
+/Users/juandavid/Projects/veryhard/veryhard/bin/Debug/netcoreapp2.0/veryhard.dll
+/Users/juandavid/Projects/veryhard/veryhard/bin/Debug/netcoreapp2.0/veryhard.pdb
+/Users/juandavid/Projects/veryhard/veryhard/obj/Debug/netcoreapp2.0/veryhard.csprojResolveAssemblyReference.cache
+/Users/juandavid/Projects/veryhard/veryhard/obj/Debug/netcoreapp2.0/veryhard.csproj.CoreCompileInputs.cache
+/Users/juandavid/Projects/veryhard/veryhard/obj/Debug/netcoreapp2.0/veryhard.AssemblyInfoInputs.cache
+/Users/juandavid/Projects/veryhard/veryhard/obj/Debug/netcoreapp2.0/veryhard.AssemblyInfo.cs
+/Users/juandavid/Projects/veryhard/veryhard/obj/Debug/netcoreapp2.0/veryhard.dll
+/Users/juandavid/Projects/veryhard/veryhard/obj/Debug/netcoreapp2.0/veryhard.pdb

@@ -1,0 +1,12 @@
+/Users/juandavid/Projects/R2HBook/R2HBook/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/juandavid/Projects/R2HBook/R2HBook/bin/Debug/netcoreapp2.0/R2HBook.deps.json
+/Users/juandavid/Projects/R2HBook/R2HBook/bin/Debug/netcoreapp2.0/R2HBook.runtimeconfig.json
+/Users/juandavid/Projects/R2HBook/R2HBook/bin/Debug/netcoreapp2.0/R2HBook.runtimeconfig.dev.json
+/Users/juandavid/Projects/R2HBook/R2HBook/bin/Debug/netcoreapp2.0/R2HBook.dll
+/Users/juandavid/Projects/R2HBook/R2HBook/bin/Debug/netcoreapp2.0/R2HBook.pdb
+/Users/juandavid/Projects/R2HBook/R2HBook/obj/Debug/netcoreapp2.0/R2HBook.csprojResolveAssemblyReference.cache
+/Users/juandavid/Projects/R2HBook/R2HBook/obj/Debug/netcoreapp2.0/R2HBook.csproj.CoreCompileInputs.cache
+/Users/juandavid/Projects/R2HBook/R2HBook/obj/Debug/netcoreapp2.0/R2HBook.AssemblyInfoInputs.cache
+/Users/juandavid/Projects/R2HBook/R2HBook/obj/Debug/netcoreapp2.0/R2HBook.AssemblyInfo.cs
+/Users/juandavid/Projects/R2HBook/R2HBook/obj/Debug/netcoreapp2.0/R2HBook.dll
+/Users/juandavid/Projects/R2HBook/R2HBook/obj/Debug/netcoreapp2.0/R2HBook.pdb

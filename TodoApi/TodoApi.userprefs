@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{4F3C765C-AFB2-4E50-9DD0-88A09D1F67F9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoApi/Controllers/TodoController.cs">
+    <Files>
+      <File FileName="TodoApi/Startup.cs" Line="11" Column="4" />
+      <File FileName="TodoApi/Program.cs" Line="14" Column="3" />
+      <File FileName="TodoApi/Controllers/TodoController.cs" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TodoApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
