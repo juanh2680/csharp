@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
-
-    public class Program
+public class Program
     {
         static void Main()
         {
@@ -25,8 +25,20 @@ using System.Collections.Generic;
             { "Josh", 30}
         };
         roadtohire.Remove("Josh");
+         int count = roadtohire.Count;
+        int userIDFromDictionaryByKey = roadtohire["Juan"];
+       
+        Console.WriteLine(userIDFromDictionaryByKey);
+       
+            Console.WriteLine("Name: {0}, Age: {1}",
+                           roadtohire.Keys.ElementAt(0),
+                             roadtohire.Values.ElementAt(0));
+            
 
 
+                  
     }
-    }
+
+  
+}
 

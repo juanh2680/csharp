@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{049F234E-3945-4DD4-87A1-8683C2E0FFBE}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="thirdChallenge/Program.cs">
     <Files>
-      <File FileName="thirdChallenge/Program.cs" Line="33" Column="1" />
+      <File FileName="thirdChallenge/Program.cs" Line="11" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.thirdChallenge PreferredExecutionTarget="MonoDevelop.Default" />

@@ -1,0 +1,11 @@
+/Users/juandavid/Projects/thirdChallenge/thirdChallenge/bin/Debug/netcoreapp2.0/thirdChallenge.deps.json
+/Users/juandavid/Projects/thirdChallenge/thirdChallenge/bin/Debug/netcoreapp2.0/thirdChallenge.runtimeconfig.json
+/Users/juandavid/Projects/thirdChallenge/thirdChallenge/bin/Debug/netcoreapp2.0/thirdChallenge.runtimeconfig.dev.json
+/Users/juandavid/Projects/thirdChallenge/thirdChallenge/bin/Debug/netcoreapp2.0/thirdChallenge.dll
+/Users/juandavid/Projects/thirdChallenge/thirdChallenge/bin/Debug/netcoreapp2.0/thirdChallenge.pdb
+/Users/juandavid/Projects/thirdChallenge/thirdChallenge/obj/Debug/netcoreapp2.0/thirdChallenge.csprojResolveAssemblyReference.cache
+/Users/juandavid/Projects/thirdChallenge/thirdChallenge/obj/Debug/netcoreapp2.0/thirdChallenge.csproj.CoreCompileInputs.cache
+/Users/juandavid/Projects/thirdChallenge/thirdChallenge/obj/Debug/netcoreapp2.0/thirdChallenge.AssemblyInfoInputs.cache
+/Users/juandavid/Projects/thirdChallenge/thirdChallenge/obj/Debug/netcoreapp2.0/thirdChallenge.AssemblyInfo.cs
+/Users/juandavid/Projects/thirdChallenge/thirdChallenge/obj/Debug/netcoreapp2.0/thirdChallenge.dll
+/Users/juandavid/Projects/thirdChallenge/thirdChallenge/obj/Debug/netcoreapp2.0/thirdChallenge.pdb
