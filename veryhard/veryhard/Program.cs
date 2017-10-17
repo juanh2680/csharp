@@ -10,7 +10,7 @@ namespace veryhard
             Console.WriteLine("What number would you like to convert?.");
 			int userNumber = Convert.ToInt16(Console.ReadLine());
 			Console.WriteLine("What type of converstion would you like to do?." +
-           "\nI -> convert from inches to centimeters.\u202f \nG -> convert from gallons to liters." +
+           "\nI -> convert from inches to centimeters. \nG -> convert from gallons to liters." +
            "\u202f \nM -> convert from mile to kilometer.\u202f \nP -> convert from pound to kilogram.\u202f");
             string userInput = Console.ReadLine();
 			switch (userInput.ToLower())

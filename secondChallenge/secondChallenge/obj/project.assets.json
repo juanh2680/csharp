@@ -2278,11 +2278,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/juandavid/Projects/veryhard/veryhard/veryhard.csproj",
-      "projectName": "veryhard",
-      "projectPath": "/Users/juandavid/Projects/veryhard/veryhard/veryhard.csproj",
+      "projectUniqueName": "/Users/juandavid/Projects/secondChallenge/secondChallenge/secondChallenge.csproj",
+      "projectName": "secondChallenge",
+      "projectPath": "/Users/juandavid/Projects/secondChallenge/secondChallenge/secondChallenge.csproj",
       "packagesPath": "/Users/juandavid/.nuget/packages/",
-      "outputPath": "/Users/juandavid/Projects/veryhard/veryhard/obj",
+      "outputPath": "/Users/juandavid/Projects/secondChallenge/secondChallenge/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/juandavid/.config/NuGet/NuGet.Config"

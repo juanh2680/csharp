@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{46D2F5F5-116A-46DC-971C-B28F478DC63F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="veryhard/Program.cs">
+﻿<Properties StartupConfiguration="{049F234E-3945-4DD4-87A1-8683C2E0FFBE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="thirdChallenge/Program.cs">
     <Files>
-      <File FileName="veryhard/Program.cs" Line="14" Column="60" />
+      <File FileName="thirdChallenge/Program.cs" Line="33" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.thirdChallenge PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.veryhard PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
